@@ -1,0 +1,19 @@
+footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    height: 70px;
+    text-align: center;
+    border-top: 2px solid #C4AA79;
+    color: #fff;
+    background-color: #1F1F1F;
+}
+
+footer img {
+    padding-top: 10px;
+    height: 50px;
+}
+
+.textmidden {
+    padding-top: 10px;
+    color: #C4AA79;
+}

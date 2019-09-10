@@ -1,0 +1,30 @@
+.contact {
+    background-image: url("img/void.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    color: aliceblue;
+    min-height: 80vh;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}
+
+.contact2 {
+    padding-top: 100px;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 400px;
+    height: 400px;
+    text-align: center;
+    padding-top: 50px;
+    border-radius: 10%;
+    
+}
+
+.contact form {
+    height: 5vw;
+}
+
+.contact button {
+    width: 5vw;
+}
+

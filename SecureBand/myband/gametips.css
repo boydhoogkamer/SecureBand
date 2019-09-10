@@ -1,0 +1,29 @@
+.gametips {
+    background-image: url("img/bilgewater3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 800vh;
+    color: aliceblue;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}
+
+.gametips h2 {
+    font-size: 2vw;
+}
+.gametips p {
+    font-size: 1.5vw;
+}
+
+.gametipstext {
+    max-width: 80vw;
+    min-width: 300px;
+    min-height: 300px;
+}
+
+.gametips h1 {
+    font-size: 4vw;
+    margin-top: 30px;
+}

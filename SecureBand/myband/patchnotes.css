@@ -1,0 +1,28 @@
+.main2 {
+    background-image: url("img/piltover.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 800vh;
+    color: aliceblue;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}
+
+.main2 h2 {
+    font-size: 2vw;
+}
+.main2 p {
+    font-size: 1.5vw;
+}
+
+.main2text {
+    max-width: 80vw;
+    min-width: 300px;
+    min-height: 300px;
+}
+
+.main2 h1 {
+    font-size: 4vw;
+}
